@@ -1,0 +1,2 @@
+# TCC---Aluga-SC-WebSite
+O website auxilia desde a reserva do imóvel até o pagamento do mesmo, possibilitando ao locatário facilidades quanto ao pagamento e agendamento da residência. A escolha das ferramentas utilizadas para o desenvolvimento do protótipo aqui analisado, foram as linguagens HTML, CSS e JavaScript para desenvolvimento front-end, e para o back-end a linguagem PHP junto framework (Laravel), que é atualmente o framework mais utilizado por desenvolvedores web PHP e com uma comunidade ativa.
